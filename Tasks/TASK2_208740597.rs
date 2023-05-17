@@ -1,5 +1,5 @@
 fn main{
-    let c=Calculator:: Add(3,5);
+    let c=Calculator:: Add{3,5};
     calculate(c);
 }
 
